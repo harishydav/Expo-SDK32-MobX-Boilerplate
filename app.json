@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "Scutr",
-    "slug": "Scutr",
+    "name": "expo32 mobx boilerplate",
+    "slug": "expo32mobxboilerplate",
     "privacy": "public",
     "sdkVersion": "32.0.0",
     "platforms": [
